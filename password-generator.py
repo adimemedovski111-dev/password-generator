@@ -35,8 +35,6 @@ if n_symbols > len(symbols):
 # Gathering our Characters
 password = []
 
-testing testing testing
-
 for n in range(n_number):
     password.append(numbers[n])
 
